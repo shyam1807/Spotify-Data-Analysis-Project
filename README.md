@@ -101,3 +101,16 @@ ORDER BY 2 DESC
    
 5. Find tracks where the energy-to-liveness ratio is greater than 1.2.
 6. Calculate the cumulative sum of likes for tracks ordered by the number of views, using window functions.
+
+
+##  Example Insights
+- Found the **most streamed artist** on Spotify.
+- Identified **top 3 most viewed songs** per artist on YouTube.
+- Compared **album vs single popularity**.
+- Discovered that most licensed songs still dominate streaming platforms.
+
+---
+
+##  Technologies Used
+- **SQL** (PostgreSQL/MySQL)
+- **Dataset**: Spotify + YouTube statistics
