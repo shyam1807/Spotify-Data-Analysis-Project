@@ -98,6 +98,8 @@ SELECT
 FROM cte
 ORDER BY 2 DESC
 
+--- 
+
 
 ##  Example Insights
 - Found the **most streamed artist** on Spotify.
