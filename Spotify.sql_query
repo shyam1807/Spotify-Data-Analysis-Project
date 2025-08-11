@@ -1,6 +1,7 @@
 -- Advance SQL Project -- Spotify Database
 -- create table
 
+
 CREATE TABLE spotify1 (
     artist VARCHAR(255),
     track VARCHAR(255),
